@@ -45,7 +45,7 @@ Through this project, I practiced:
 
 ## Live Demo
 
-GitHub Pages:  
+GitHub Pages:  https://nomenaharilazarandria.github.io/utilisation-forEach-/
 
 ## Future Improvements
 
