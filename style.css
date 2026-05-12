@@ -1,0 +1,36 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+}
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#content{
+	border-radius: 10px;
+	width: 300px;
+	display: flex;
+	flex-direction : column;
+	padding: 20px;
+	gap: 10px;
+	box-shadow: 2px 2px 10px rgba(1,1,1,0.5);
+}
+#output {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+li {
+	margin-left: 30px;
+}
+#tableau {
+	word-break: break-word;
+	line-height: 1.5;
+}
+#myInput, #addBtn{
+	padding: 5px;
+}
